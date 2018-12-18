@@ -49,9 +49,7 @@ http://localhost:8081/nexus/content/repositories/sambit/
 
 
 	
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
+	
 
 	<build>
 	<plugins>
